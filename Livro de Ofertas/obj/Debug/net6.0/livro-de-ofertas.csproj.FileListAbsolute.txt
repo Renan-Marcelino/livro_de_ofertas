@@ -1,0 +1,28 @@
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\bin\Debug\net6.0\livro-de-ofertas.exe
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\bin\Debug\net6.0\livro-de-ofertas.deps.json
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\bin\Debug\net6.0\livro-de-ofertas.runtimeconfig.json
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\bin\Debug\net6.0\livro-de-ofertas.dll
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\bin\Debug\net6.0\livro-de-ofertas.pdb
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\obj\Debug\net6.0\livro-de-ofertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\obj\Debug\net6.0\livro-de-ofertas.AssemblyInfoInputs.cache
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\obj\Debug\net6.0\livro-de-ofertas.AssemblyInfo.cs
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\obj\Debug\net6.0\livro-de-ofertas.csproj.CoreCompileInputs.cache
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\obj\Debug\net6.0\livro-de-ofertas.dll
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\obj\Debug\net6.0\refint\livro-de-ofertas.dll
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\obj\Debug\net6.0\livro-de-ofertas.pdb
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\obj\Debug\net6.0\livro-de-ofertas.genruntimeconfig.cache
+C:\Users\Loja\Desktop\intellitrader-livro-de-ofertas-master\obj\Debug\net6.0\ref\livro-de-ofertas.dll
+C:\Users\Loja\Desktop\Livro de Ofertas\bin\Debug\net6.0\livro-de-ofertas.exe
+C:\Users\Loja\Desktop\Livro de Ofertas\bin\Debug\net6.0\livro-de-ofertas.deps.json
+C:\Users\Loja\Desktop\Livro de Ofertas\bin\Debug\net6.0\livro-de-ofertas.runtimeconfig.json
+C:\Users\Loja\Desktop\Livro de Ofertas\bin\Debug\net6.0\livro-de-ofertas.dll
+C:\Users\Loja\Desktop\Livro de Ofertas\bin\Debug\net6.0\livro-de-ofertas.pdb
+C:\Users\Loja\Desktop\Livro de Ofertas\obj\Debug\net6.0\livro-de-ofertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loja\Desktop\Livro de Ofertas\obj\Debug\net6.0\livro-de-ofertas.AssemblyInfoInputs.cache
+C:\Users\Loja\Desktop\Livro de Ofertas\obj\Debug\net6.0\livro-de-ofertas.AssemblyInfo.cs
+C:\Users\Loja\Desktop\Livro de Ofertas\obj\Debug\net6.0\livro-de-ofertas.csproj.CoreCompileInputs.cache
+C:\Users\Loja\Desktop\Livro de Ofertas\obj\Debug\net6.0\livro-de-ofertas.dll
+C:\Users\Loja\Desktop\Livro de Ofertas\obj\Debug\net6.0\refint\livro-de-ofertas.dll
+C:\Users\Loja\Desktop\Livro de Ofertas\obj\Debug\net6.0\livro-de-ofertas.pdb
+C:\Users\Loja\Desktop\Livro de Ofertas\obj\Debug\net6.0\livro-de-ofertas.genruntimeconfig.cache
+C:\Users\Loja\Desktop\Livro de Ofertas\obj\Debug\net6.0\ref\livro-de-ofertas.dll
